@@ -8,3 +8,5 @@ Final project for ZTM course
 
 You can grab Clarifai API key [here](https://www.clarifai.com/)
 
+rEACT aPP
+
