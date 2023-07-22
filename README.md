@@ -1,5 +1,5 @@
+Face Recognition App
 
-You can grab Clarifai API key [here](https://www.clarifai.com/)
 
  ▶ Languages and Tools:
 <h3 align="left">▶ Languages and Tools:</h3>
