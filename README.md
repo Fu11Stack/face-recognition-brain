@@ -1,4 +1,5 @@
-Face Recognition App!
+Face Recognition Application.
+using clarify api
 
 
  ▶ Languages and Tools:
