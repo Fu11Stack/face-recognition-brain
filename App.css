@@ -1,0 +1,119 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Roboto+Mono&display=swap");
+
+.App {
+  text-align: center;
+  background: linear-gradient(89deg, #192ff5c5 10%, #00ffff 100%);
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  
+}
+
+.container {
+  justify-content: center;
+  align-items: center;
+}
+
+.bg-box {
+  position: center;
+  bottom: 0;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.3);
+}
+
+.flexs {
+  text-align: center;
+}
+
+input {
+  color: white;
+  outline: none;
+}
+
+.bgcol {
+  background-color: #d1d1d1;
+}
+
+.cssBorder {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: solid white;
+  border-width: 1px;
+}
+
+.cssSignin {
+  border: chartreuse;
+  border-width: 2px;
+  background: #1f78fd;
+  border-radius: 2px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  width: 500px;
+  height: auto;
+}
+
+.white {
+  text-decoration: none;
+  font-family: "Roboto Mono", monospace, sans-serif;
+}
+
+#tsparticles {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+}
+
+.mar {
+  margin: auto;
+  width: 50%;
+}
+
+@media only screen and (max-width: 400px) {
+  .mar {
+    margin: auto;
+    width: 90%;
+  }
+  .center {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    width: 360px;
+    height: auto;
+    
+  }
+}
+
+.bgRank {
+  margin: 0;
+  width: 500px;
+  height: auto;
+}
+
+.br-pill {
+  height: 50px;
+}
+
+.bgText {
+  padding-top: 150px;
+}
+/* .bgRank::before {
+  content: '';
+  position:absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  -webkit-filter: blur(50px);
+  background-color:#3333;
+  z-index: -1;
+} */
