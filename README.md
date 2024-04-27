@@ -1,7 +1,6 @@
 Face Recognition Application.
 using clarify api
-
-1/2/24
+2/2/24
 
 
  ▶ Languages and Tools:
